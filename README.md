@@ -82,3 +82,4 @@ bitcoincash.org is released under the terms of the MIT license. See [COPYING](CO
 information or see https://opensource.org/licenses/MIT.
 Created by Jason Scott Heise  https://www.behance.net
 https://next.frame.io  https://www.x.com
+https://www.x.com   https://paulwalkerfoundation.org
